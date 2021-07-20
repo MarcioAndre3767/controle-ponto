@@ -20,7 +20,7 @@ Pré-requisitos: Java 11
 
 # Como executar o projeto
 
-## clonar repositório
+## Clonar repositório:
 git clone https://github.com/MarcioAndre3767/controle-ponto.git
 
 ## Entrar na pasta do projeto: controle-ponto
@@ -32,7 +32,7 @@ git clone https://github.com/MarcioAndre3767/controle-ponto.git
 ### Acessando o banco de dados H2:
 localhost:8080/controleponto/h2-console
 
-### Acessando o link Swagger Ui
+### Acessando o link Swagger Ui:
 localhost:8080/controleponto/swagger-ui.html
 
 
