@@ -1,6 +1,6 @@
-#CONTROLE DE PONTO
+# CONTROLE DE PONTO
 
-##Controle de Ponto -  é uma atividade desenvolvida no Bootcamp Santander da Digital Innovation One.
+## Controle de Ponto -  é uma atividade desenvolvida no Bootcamp Santander da Digital Innovation One.
 
 Uma aplicação de controle de ponto com relacionamento das entidades.
 
@@ -19,10 +19,8 @@ Uma aplicação de controle de ponto com relacionamento das entidades.
 
 Pré-requisitos: Java 11
 
-```bash
 # clonar repositório
 git clone https://github.com/MarcioAndre3767/controle-ponto.git
-
 
 # entrar na pasta do projeto: controle-ponto
 
@@ -36,6 +34,7 @@ localhost:8080/controleponto/h2-console
 ### Acessando o link Swagger Ui
 localhost:8080/controleponto/swagger-ui.html
 
+```bash
 
 # Autor
 
