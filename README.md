@@ -1,6 +1,6 @@
 # Construção de um sistema de controle de ponto
 
-## Controle de Ponto -  é uma atividade desenvolvida no Bootcamp Santander da Digital Innovation One.
+Controle de Ponto -  é uma atividade desenvolvida no Bootcamp Santander da Digital Innovation One.
 
 Neste projeto foi desenvolvida uma API Rest para controle de ponto e acesso dos usuários de uma empresa
 
