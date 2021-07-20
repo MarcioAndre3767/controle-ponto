@@ -1,14 +1,15 @@
-# CONTROLE DE PONTO
+# Construção de um sistema de controle de ponto
 
 ## Controle de Ponto -  é uma atividade desenvolvida no Bootcamp Santander da Digital Innovation One.
 
-Uma aplicação de controle de ponto com relacionamento das entidades.
+Neste projeto foi desenvolvida uma API Rest para controle de ponto e acesso dos usuários de uma empresa
+
 
 # Tecnologias utilizadas
 ## Back end
 - Java
 - Spring Boot
-- Spring doc
+- Swagger
 - JPA - Hibernate
 - Banco H2
 - Lombok
