@@ -22,9 +22,9 @@ Pré-requisitos: Java 11
 # clonar repositório
 git clone https://github.com/MarcioAndre3767/controle-ponto.git
 
-# entrar na pasta do projeto: controle-ponto
+## Entrar na pasta do projeto: controle-ponto
 
-## Para executar o projeto no terminal, digite o seguinte comando:
+### Para executar o projeto no terminal, digite o seguinte comando:
  mvn spring-boot:run
    
 ## Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
@@ -34,7 +34,7 @@ localhost:8080/controleponto/h2-console
 ### Acessando o link Swagger Ui
 localhost:8080/controleponto/swagger-ui.html
 
-```bash
+
 
 # Autor
 
