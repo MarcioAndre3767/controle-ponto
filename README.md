@@ -15,12 +15,12 @@ Neste projeto foi desenvolvida uma API Rest para controle de ponto e acesso dos 
 - Lombok
 - Maven
 
-# Como executar o projeto
-## Back end
 
 Pré-requisitos: Java 11
 
-# clonar repositório
+# Como executar o projeto
+
+## clonar repositório
 git clone https://github.com/MarcioAndre3767/controle-ponto.git
 
 ## Entrar na pasta do projeto: controle-ponto
